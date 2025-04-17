@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "fs": "^0.0.1-security",
+    "svg-path-parser": "^1.1.0",
+    "svgson": "^5.3.1"
+  }
+}
