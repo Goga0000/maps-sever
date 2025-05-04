@@ -1,12 +1,6 @@
     html, body, #map {
       width: 100%; height: 100vh; margin: 0; padding: 0;
     }
-    #map {
-        background-image: url(https://static.tildacdn.com/tild3136-3162-4937-a466-313536326664/7___270325_2.png) center center / cover no-repeat;
-    }
-#map .ymaps-layers-pane {
-    display: none;
-}
     /* Popup background */
     .popup__bg {
       position: fixed; top: 0; left: 0; width: 100%; height: 100%;
